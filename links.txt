@@ -1,0 +1,21 @@
+
+start python
+https://digitransit.fi/en/
+https://echarts4r-assets.john-coene.com/
+https://plot.ly/r/cumulative-animations/
+
+https://www.kaggle.com/c/online-sales/data
+https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest
+
+
+https://docs.google.com/document/d/1gywfeZpa-s4gS-feM2KPa9a--xOUuTkVq81_OAc9uew/edit?ts=5c4edc95#
+
+
+http://kateto.net/network-visualization
+https://www.gis-blog.com/flight-connection-map-with-r/
+
+https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-02-26/small_trains.csv
+
+https://data.cityofchicago.org/Transportation/CTA-List-of-CTA-Datasets/pnau-cf66
+
+https://data.world/city-of-bloomington/31e2fca1-af27-41e7-8bbd-28c556ace6eb/workspace/file?filename=street-repair-and-maintenance-1.csv
